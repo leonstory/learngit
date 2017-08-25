@@ -1,2 +1,2 @@
 error: fai
-error: fai
+Creating a new branch is quick AND simple.
